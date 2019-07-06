@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Trent Edwards
+## I'm learning Github as a hobby
